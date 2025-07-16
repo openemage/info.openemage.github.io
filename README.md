@@ -1,14 +1,12 @@
 # The Modular Lab Movement
 
-## A Proposal for Radical Scientific Leadership
-
 Traditional scientific careers are locked within hierarchical structures. Young, innovative researchers often spend years waiting for institutional approval to independently pursue their ideas. The Modular Lab Movement proposes an alternative—a flexible, open, and decentralized model that empowers researchers from the very start of their scientific careers.
 
 The Modular Lab Movement introduces the **"Modular Lab"** as the primary operational unit for scientific inquiry and collaboration, anchored in electron imaging and leveraging shared, centralized resources. Modular Labs operate under the nonprofit meta-institution, **openemage**, which provides governance, legal identity, and infrastructure.
 
 ---
 
-## The Modular Lab Manifesto
+## The Modular Lab
 
 ### Science Without Borders
 
