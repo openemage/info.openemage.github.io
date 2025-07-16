@@ -109,7 +109,7 @@ While Modular Labs may defer formal student mentorship, founders can:
 - Offer high-impact training to postdocs or research fellows  
 - Gradually develop full mentorship structures once transitioned into long-term academic roles
 
-> This ensures training and leadership are not forced prematurely, but emerge as natural extensions of scientific maturity.
+This ensures training and leadership are not forced prematurely, but emerge as natural extensions of scientific maturity.
 
 ---
 
