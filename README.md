@@ -101,8 +101,6 @@ Mentorship is cultivated through:
 - Visiting fellows and embedded residency programs  
 - Integration with global mentoring networks
 
-## PhD and Postdoc Engagement
-
 While Modular Labs may defer formal student mentorship, founders can:
 
 - Co-mentor PhD students in collaboration with academic institutions  
