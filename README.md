@@ -1,4 +1,4 @@
-# The Modular Lab Movement
+# OPENEMAGE: The Modular Lab Movement
 
 Traditional scientific careers are locked within hierarchical structures. Young, innovative researchers often spend years waiting for institutional approval to independently pursue their ideas. The Modular Lab Movement proposes an alternative—a flexible, open, and decentralized model that empowers researchers from the very start of their scientific careers.
 
