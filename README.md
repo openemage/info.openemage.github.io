@@ -4,7 +4,7 @@
 
 Traditional scientific careers are locked within hierarchical structures. Young, innovative researchers often spend years waiting for institutional approval to independently pursue their ideas. The Modular Lab Movement proposes an alternative—a flexible, open, and decentralized model that empowers researchers from the very start of their scientific careers.
 
-The Modular Lab Movement introduces the **"Modular Lab"** as the primary operational unit for scientific inquiry and collaboration, anchored in electron imaging and leveraging shared, centralized resources. Modular Labs operate under the nonprofit meta-institution, **Openemage**, which provides governance, legal identity, and infrastructure.
+The Modular Lab Movement introduces the **"Modular Lab"** as the primary operational unit for scientific inquiry and collaboration, anchored in electron imaging and leveraging shared, centralized resources. Modular Labs operate under the nonprofit meta-institution, **openemage**, which provides governance, legal identity, and infrastructure.
 
 ---
 
@@ -75,7 +75,7 @@ Modular Labs serve as launchpads—allowing scientists to prove their ideas and 
 
 - Transition into traditional faculty positions with stronger leverage.  
 - Integrate their modular lab’s mission into institutional settings.  
-- Retain modular initiatives under the Openemage umbrella as legacy or collaborative nodes.
+- Retain modular initiatives under the openemage umbrella as legacy or collaborative nodes.
 
 ### Validation Through External Metrics
 
