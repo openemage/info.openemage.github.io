@@ -101,8 +101,6 @@ Mentorship is cultivated through:
 - Visiting fellows and embedded residency programs  
 - Integration with global mentoring networks
 
----
-
 ## PhD and Postdoc Engagement
 
 While Modular Labs may defer formal student mentorship, founders can:
@@ -124,10 +122,6 @@ openemage acts as the nonprofit platform underpinning the Modular Lab Movement. 
 - Creator of fellowship and affiliate programs  
 - Custodian of open protocols, data repositories, and shared imaging toolkits  
 - Advocate for policy reform towards funding and supporting post-institutional science
-
----
-
-## Next Steps
 
 At **openemage**, we are setting the stage for a new era of scientific exploration and leadership. We invite:
 
